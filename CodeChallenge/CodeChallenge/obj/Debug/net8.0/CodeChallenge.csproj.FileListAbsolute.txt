@@ -1,0 +1,14 @@
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/bin/Debug/net8.0/CodeChallenge
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/bin/Debug/net8.0/CodeChallenge.deps.json
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/bin/Debug/net8.0/CodeChallenge.runtimeconfig.json
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/bin/Debug/net8.0/CodeChallenge.dll
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/bin/Debug/net8.0/CodeChallenge.pdb
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/obj/Debug/net8.0/CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/obj/Debug/net8.0/CodeChallenge.AssemblyInfoInputs.cache
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/obj/Debug/net8.0/CodeChallenge.AssemblyInfo.cs
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/obj/Debug/net8.0/CodeChallenge.csproj.CoreCompileInputs.cache
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/obj/Debug/net8.0/CodeChallenge.dll
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/obj/Debug/net8.0/refint/CodeChallenge.dll
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/obj/Debug/net8.0/CodeChallenge.pdb
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/obj/Debug/net8.0/CodeChallenge.genruntimeconfig.cache
+/Users/corneliu/Projects/CodeChallenge/CodeChallenge/obj/Debug/net8.0/ref/CodeChallenge.dll
